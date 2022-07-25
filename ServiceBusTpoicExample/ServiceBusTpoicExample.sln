@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusTpoicExample", "ServiceBusTpoicExample\ServiceBusTpoicExample.csproj", "{7A7E75AE-93A0-4345-A599-E793802EA763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A7E75AE-93A0-4345-A599-E793802EA763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7E75AE-93A0-4345-A599-E793802EA763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7E75AE-93A0-4345-A599-E793802EA763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7E75AE-93A0-4345-A599-E793802EA763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEBA45A3-C2F0-40A0-A52F-A9EA0414496F}
+	EndGlobalSection
+EndGlobal
